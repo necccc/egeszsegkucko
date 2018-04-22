@@ -4,8 +4,34 @@
     <div class="mask"></div>
     
     <%- body %>
-    
-    <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+
+    <%
+      var menu = page.slug;
+      menu = (typeof menu === 'undefined') ? 'index' : menu;
+      menu = (page.slug === 'kapcsolat') ? 'index' : menu;
+    %>
+    <nav>
+      <span class="logo"></span>
+      <ul>
+        <li class="page_item page-item-14 <%- (menu === 'index' ? 'current_page_item' : '') %>">
+          <a href="/">Elérhetőség</a>
+        </li>
+        <li class="page_item page-item-6 <%- (menu === 'gyogymasszazs' ? 'current_page_item' : '') %>">
+          <a href="/gyogymasszazs/">Masszázsok</a>
+        </li>
+        <li class="page_item page-item-8 <%- (menu === 'talpmasszazs' ? 'current_page_item' : '') %>">
+          <a href="/talpmasszazs/">Talpmasszázs</a>
+        </li>
+        <li class="page_item page-item-5 <%- (menu === 'alakformalas' ? 'current_page_item' : '') %>">
+          <a href="/alakformalas/">Alakformálás</a>
+        </li>
+      </ul>
+      
+      <span class="cards">
+        OTP Szép kártya elfogadóhely
+        <span></span>
+      </span>
+    </nav>
   </div>
 </body>
 </html>
