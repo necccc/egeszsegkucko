@@ -1,0 +1,11 @@
+<%- partial('_partial/head') %>
+  <div class="centered main">
+    <%- partial('_partial/header', null, {cache: !config.relative_link}) %>
+    <div class="mask"></div>
+    
+    <%- body %>
+    
+    <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+  </div>
+</body>
+</html>
