@@ -20,8 +20,7 @@ Előnyei:
 
 **A kezelések időtartama és ára:**
 
- - 30 perc &#8211; 3.500.-
- - 45 perc &#8211; 5.000.-
+ - 40 perc &#8211; 4.000.-
  - 60 perc &#8211; 7.000.-
 
 ---
