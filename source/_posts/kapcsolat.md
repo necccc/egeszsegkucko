@@ -6,7 +6,7 @@ menu: kapcsolat
 ## Elérhetőség
 
     
-<p align="center"><img src="http://egeszsegkucko.hu/wp-content/uploads/2010/10/ek_fooldal.jpg" alt="Kapcsolat" /></p>
+<p align="center"><img src="/images/ek_fooldal.jpg" alt="Kapcsolat" /></p>
 
 **Telefon:** +36 30 / 212 97 58
 
