@@ -25,8 +25,8 @@ Előnyei:
 
 **A kezelések időtartama és ára:**
 
- - 30 perces talpmasszázs &#8211; 3.500.-
- - 50 perces talp- és lábmasszázs &#8211; 5.500.-
+ - 40 perces talpmasszázs &#8211; 4.000.-
+ - 50 perces talp- és lábmasszázs &#8211; 6.000.-
 
 ---
 
