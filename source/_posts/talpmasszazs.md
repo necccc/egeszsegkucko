@@ -6,7 +6,7 @@ menu: talpmasszazs
 
 ## Talpmasszázs
 
-<p style="text-align: center"><img src="http://egeszsegkucko.hu/wp-content/uploads/2010/10/ek_talp.jpg" alt="Talpmasszázs" /></p>
+<p style="text-align: center"><img src="/images/ek_talp.jpg" alt="Talpmasszázs" /></p>
 
 Egyszerű és természetes módon segítő módszer talpunk alsó, felső és oldalsó részén, valamint a lábujjakon lévő reflexterületek speciális masszírozásával.
 
