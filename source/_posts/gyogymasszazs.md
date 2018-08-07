@@ -5,7 +5,7 @@ menu: gyogymasszazs
 
 ## Masszázsok
 
-<p style="text-align: center"><img src="http://egeszsegkucko.hu/wp-content/uploads/2010/10/ek_gyogy.jpg" alt="Gyógymasszázs" /></p>
+<p style="text-align: center"><img src="/images/ek_gyogy.jpg" alt="Gyógymasszázs" /></p>
 
 A kezdeti lazító, majd egyre mélyebb, intenzívebb és speciális fogásokat is tartalmazó masszázs során könnyebben ellazulnak a fájdalmasan feszült, görcsös izmok, a letapadások és az izomcsomók. Minden terület alapos masszázst, gyúrást és átmozgatást kap többféle testhelyzetben.
 
