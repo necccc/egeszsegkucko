@@ -21,17 +21,17 @@ Hatékonyan enyhíti, oldja&#8230;
 
 **A kezelések időtartama és ára a kezelés területétől és idejétől függően, az izületek lazításával &#8211; gyógy-, sport-, vagy aromaolajos masszázs:**
 
- - 30 perc &#8211; 3.800.-
- - 45 perc &#8211; 5.700.-
- - 60 perc &#8211; 7.600.-
- - 90 perc &#8211; 10.000.-
+ - 30 perc &#8211; 4.000.-
+ - 45 perc &#8211; 6.000.-
+ - 60 perc &#8211; 8.000.-
+ - 90 perc &#8211; 10.500.-
 
 **A masszázs keretén belül igényelhető frissítő-, relax-, vagy kismama-masszázs:**
 
  - 30 perc &#8211; 3.000.-
- - 45 perc &#8211; 4.000.-
- - 60 perc &#8211; 5.500.-
- - 90 perc &#8211; 8.000.-
+ - 45 perc &#8211; 4.500.-
+ - 60 perc &#8211; 6.000.-
+ - 80 perc &#8211; 8.000.-
 
 ---
 
