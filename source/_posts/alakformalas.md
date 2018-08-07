@@ -5,7 +5,7 @@ menu: alakformalas
 
 ## Alakformálás
 
-<p align="center"><img src="http://egeszsegkucko.hu/wp-content/uploads/2010/10/ek_alak.jpg" alt="Alakformálás" /></p>
+<p align="center"><img src="/images/ek_alak.jpg" alt="Alakformálás" /></p>
 
 A kombinált cellulit- és nyirokmasszázs hatásosan szünteti meg a makacs lerakódásokat. A nyirokrendszer aktivizálása, tisztítása után lazább-erőteljesebb, intenzív kézi- és gumikefés masszázzsal dolgozzuk meg az érintett területet, igény szerint vákuum-masszázzsal (SPM) kombinálva. A kezelések nem fájdalmasak, nem hagynak „nyomot”, de a legproblémásabb területeken helyi érzékenység felléphet.
 
