@@ -13,8 +13,7 @@ menu: kapcsolat
 
 **E-mail** Makszy Jutkának: <a title="E-mail Jutkának" href="mailto:makszy@t-online.hu" target="_blank">makszy@t-online.hu</a>
 
-**Cím:** 1055 Budapest, Stollár Béla u. 22. (II. em., 18 kapukód) &#8211; 
-<a href="https://goo.gl/maps/QJSKRWmoANm" target=_blank>Google Maps térkép</a>
+**Cím:** Budapest, XV. kerület
 
 ---
 
